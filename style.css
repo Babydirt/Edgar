@@ -1,0 +1,47 @@
+body {
+  margin:0;
+}
+.nav{
+  overflow: hidden;
+  background-color: #3C3C3C;
+  position: fixed;
+  top:0;
+  width:100%;
+  
+}
+.top img{
+  padding:20% 29%;
+}
+.Img{
+position: relative;
+ text-align: center;
+}
+.textcenter{
+    position: absolute;
+  top: 80%;
+  left: 50%;
+  transform: translate(-50%, -50%);
+  font-family: 'M PLUS 1', sans-serif;
+  text-align:center;
+}
+.textcenter h4{
+  background-color: #4F57A9;
+  padding:10px 20px;
+  border-radius:10px;
+  overflow:hidden;
+  
+}
+.explain h2{
+  font-family: 'M PLUS 1', sans-serif;
+}
+.explain{
+  text-align:center;
+}
+.pic{
+  font-family: 'M PLUS 1', sans-serif;
+  text-align:center;
+}
+.footer{
+    font-family: 'M PLUS 1', sans-serif;
+  text-align:center;
+}
